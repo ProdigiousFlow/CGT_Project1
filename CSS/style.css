@@ -1,0 +1,60 @@
+p {
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    color: white;
+    -webkit-text-stroke: .8px;
+    -webkit-text-stroke-color: rgb(255, 38, 0);
+    font-size: 40px;
+    font-family: 'RED regular';
+}
+h1 {
+    text-align: center;
+    font-family: 'redregular';
+    color: white;
+    -webkit-text-stroke: .5px;
+    -webkit-text-stroke-color: rgb(255, 38, 0);
+    font-family: 'RED regular';
+    font-size: 70px;
+    clear: both;
+}
+h2 {
+    text-align: center;
+    color: white;
+    -webkit-text-stroke: .5px;
+    -webkit-text-stroke-color: rgb(255, 38, 0);
+    font-family: 'RED regular';
+    font-size: 60px;
+    clear: both;
+}
+#title {
+    width: 45%;
+    height: auto;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+#banners {
+    width: 25%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.portrait {
+    float: left;
+    height: 60%;
+} 
+
+#portraits {
+    border: 2px solid red;
+}
+
+#imagelink {
+    width: 45%;
+    height: auto;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+}
